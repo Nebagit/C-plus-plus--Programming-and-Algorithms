@@ -22,4 +22,4 @@ Feel free to contribute by adding new problems, improving existing solutions, or
 
 Nebiyu Tefera
 
-
+Anyone can contribute and work on it.
