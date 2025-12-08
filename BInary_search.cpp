@@ -17,7 +17,7 @@ int n,i,search;
         cin>>pack1[i];
     }
    
-    cout<<"Enter the number to be searched: ";
+    cout<<"Enter the number to be searched items: ";
     cin>>search;
 }
 
@@ -41,3 +41,4 @@ int left=0;
         }
     }
 }
+
